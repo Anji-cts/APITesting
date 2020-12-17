@@ -1,0 +1,29 @@
+ - 17-12-2020 14:34:08 setValidGetUsersServiceApiEndPoint - **************Test verifiction by hitting the end point*************
+ - 17-12-2020 14:34:08 setValidGetUsersServiceApiEndPoint - https://jsonplaceholder.typicode.com :Value from Properties file
+ - 17-12-2020 14:34:10 setValidGetUsersServiceApiEndPoint - Status code: 200
+ - 17-12-2020 14:34:10 shouldSeeValidResponseCode - Verifying the status code: 200
+ - 17-12-2020 14:34:11 shouldSeeNameAndId - 500 :Number of nodes 
+ - 17-12-2020 14:34:11 shouldSeeNameAndId - i value from response: 2
+ - 17-12-2020 14:34:11 shouldSeeNameAndId - Given name and ID exists in response at node: 2
+ - 17-12-2020 14:34:11 setValidGetUsersServiceApiEndPoint - **************Test verifiction by hitting the end point*************
+ - 17-12-2020 14:34:11 setValidGetUsersServiceApiEndPoint - https://jsonplaceholder.typicode.com :Value from Properties file
+ - 17-12-2020 14:34:12 setValidGetUsersServiceApiEndPoint - Status code: 200
+ - 17-12-2020 14:34:12 shouldSeeValidResponseCode - Verifying the status code: 200
+ - 17-12-2020 14:34:12 shouldSeeTitleAndId - 100 :Number of Name nodes
+ - 17-12-2020 14:34:12 shouldSeeTitleAndId - i value from response: 3
+ - 17-12-2020 14:34:12 shouldSeeTitleAndId - Given name and ID exists in response at node: 3
+ - 17-12-2020 14:34:12 setValidGetUsersServiceApiEndPoint - **************Test verifiction by hitting the end point*************
+ - 17-12-2020 14:34:12 setValidGetUsersServiceApiEndPoint - https://jsonplaceholder.typicode.com :Value from Properties file
+ - 17-12-2020 14:34:13 setValidGetUsersServiceApiEndPoint - Status code: 200
+ - 17-12-2020 14:34:13 shouldSeeValidResponseCode - Verifying the status code: 200
+ - 17-12-2020 14:34:13 shouldSeeTheUsernameInResponse - 10 :Number of Name nodes
+ - 17-12-2020 14:34:13 shouldSeeTheUsernameInResponse - [Bret, Antonette, Samantha, Karianne, Kamren, Leopoldo_Corkery, Elwyn.Skiles, Maxime_Nienow, Delphine, Moriah.Stanton]
+ - 17-12-2020 14:34:13 shouldSeeTheUsernameInResponse - Given username: Bret is existst in the response with id: 1
+ - 17-12-2020 14:34:13 shouldVerifyAddressDetails - Bret
+ - 17-12-2020 14:34:13 shouldVerifyAddressDetails - Given username: Bret is existst in the response with id: 1
+ - 17-12-2020 14:34:13 shouldVerifyAddressDetails - {street=Kulas Light, suite=Apt. 556, city=Gwenborough, zipcode=92998-3874, geo={lat=-37.3159, lng=81.1496}}
+ - 17-12-2020 14:34:13 shouldVerifyAddressDetails - Kulas Light Apt. 556 Gwenborough
+ - 17-12-2020 14:34:13 shouldVerifyCompanyDetails - Bret
+ - 17-12-2020 14:34:13 shouldVerifyCompanyDetails - Given username: Bret is existst in the response with id: 1
+ - 17-12-2020 14:34:13 shouldVerifyCompanyDetails - {name=Romaguera-Crona, catchPhrase=Multi-layered client-server neural-net, bs=harness real-time e-markets}
+ - 17-12-2020 14:34:13 shouldVerifyCompanyDetails - Romaguera-Crona Multi-layered client-server neural-net harness real-time e-markets
